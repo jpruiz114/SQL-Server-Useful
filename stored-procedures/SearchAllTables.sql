@@ -1,4 +1,4 @@
-USE [Pet360]
+USE [Your_DB]
 GO
 /****** Object:  StoredProcedure [dbo].[SearchAllTables]    Script Date: 12/28/2015 11:18:32 ******/
 SET ANSI_NULLS ON
